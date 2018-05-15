@@ -173,6 +173,7 @@ public class GameController : MonoBehaviour {
 	public void HandleAdverResult(ShowResult result){
 		switch(result)
 		{
+			
 			case ShowResult.Finished:
 				Debug.Log("Finalizado");
 			break;
