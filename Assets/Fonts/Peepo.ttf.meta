@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 281f778b5bed29f4ab1b2d7cffbae630
+timeCreated: 1525693497
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Peepo
+  fontNames:
+  - Peepo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
